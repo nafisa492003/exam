@@ -22,7 +22,7 @@ export default {
           'gray_drak':'#464558',
         },
         backgroundImage: {
-          'video-pattern': "url('./src/assets/Modal video section.jpg')",
+          'video-pattern': "url('./src/assets/video.jpg')",
         },
     },
   },
