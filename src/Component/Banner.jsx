@@ -6,7 +6,7 @@ import { FaLongArrowAltRight } from "react-icons/fa";
 import banner_img from '../assets/banner image .png'
 const Banner = () => {
   return (
-    <Section className={`py-20 md:py-[170px]`}>
+    <Section>
    <Container>
     <Flex className={`items-center flex-col-reverse lg:flex-row`}>
      <div className='mt-[50px] flex flex-col items-center justify-center lg:items-start lg:justify-start lg:mt-0'>
