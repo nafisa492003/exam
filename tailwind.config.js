@@ -7,16 +7,19 @@ export default {
   theme: {
     extend: {
       maxWidth : {
-        container :"1204px",
+        container :"1320px",
         },
         fontFamily: {
-          'dmSans': ['"DM Sans"', "sans-serif"],
+          'raleway': ['"Raleway"', "sans-serif"],
+          'oxanium': ['"Oxanium"', "sans-serif"],
         },
         colors: {
-          'primary': '#262626',
-          'secondary': '#6D6D6D',
-          'hash':'#767676',
-          'textColor':'#C4C4C4'
+          'bg_colour': '#fff7e7',
+          'orange': '#F95C19',
+          'light_orange' : '#FFEDC9',
+          'dark_orange' : '#FFAF0F',
+          'gray_light':'#7B7A8B',
+          'gray_drak':'#464558',
         },
     },
   },
